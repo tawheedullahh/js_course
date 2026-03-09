@@ -1,5 +1,6 @@
-console.log(typeof "Tawheed")
+//console.log(typeof "Tawheed")
 
-console.log(typeof null)//-> object
-console.log(typeof undefined)//-> undefined
+//onsole.log(typeof null)//-> object
+//console.log(typeof undefined)//-> undefined
 
+console.log("2">2);
